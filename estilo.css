@@ -1,0 +1,37 @@
+
+.border{
+    border: rgb(7, 228, 172) 6px solid;
+    width: 350px;
+    height: 350px;
+    background-color: aqua;
+    float: left;
+    margin: 20px;
+}
+
+.A{
+    border-radius: 120px;
+}
+
+.B{
+    border-radius: 200px;
+}
+
+.C{
+    border-radius: 30px 0px 30px 0px;
+}
+
+.D{
+    border-radius: 400px 0px 0px 0px;
+}
+
+.E{
+    border-radius: 80px;
+}
+
+.F{
+    border-radius: 400px 0px 400px 0px;
+}
+
+.G{
+    border-radius: 200px 200px 0px 0px;
+}
